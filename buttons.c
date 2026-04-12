@@ -35,4 +35,3 @@ void InitializeButtonGPIO(void) {
     delay_cycles(POWER_STARTUP_DELAY); // delay to enable GPIO to turn on and reset
 }
 
-
